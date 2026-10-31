@@ -106,7 +106,3 @@ emporio-musica-ai-agent/
     ├── 04_hours.md
     └── 05_out_of_scope.md
 ```
-
-## Coding Assistant Transparency
-
-ChatGPT supported requirement interpretation, architecture planning, implementation review, and documentation organization. Business rules, limitations, and data-handling decisions are documented for technical review.
