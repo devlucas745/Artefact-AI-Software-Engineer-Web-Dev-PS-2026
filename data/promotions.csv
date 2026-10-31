@@ -1,0 +1,26 @@
+promotion_id,product_id,discount_percent,description,is_active
+1,97,10,Winter Sale,0
+2,104,15,Clearance Sale,0
+3,111,20,Special Offer,0
+4,118,25,Store Anniversary,0
+5,125,30,Easter Promotion,0
+6,132,35,Musician Week,0
+7,139,40,Exclusive Discount,0
+8,95,9,Black Friday,0
+9,102,14,Winter Sale,0
+10,109,19,Clearance Sale,0
+11,116,24,Special Offer,0
+12,123,29,Store Anniversary,1
+13,130,34,Easter Promotion,0
+14,137,39,Musician Week,1
+15,93,8,Exclusive Discount,0
+16,100,13,Black Friday,0
+17,107,18,Winter Sale,0
+18,114,23,Clearance Sale,0
+19,121,28,Special Offer,1
+20,128,33,Store Anniversary,0
+21,135,38,Easter Promotion,0
+22,91,7,Musician Week,0
+23,98,12,Exclusive Discount,0
+24,105,17,Black Friday,1
+25,112,22,Winter Sale,0

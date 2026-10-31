@@ -1,0 +1,51 @@
+customer_id,name,phone,email,city
+1,Lucas Mendes da Silva,(67) 90001-0137,customer1@example.com,Tres Lagoas
+2,Ana Carolina Ferreira,(67) 90002-0274,customer2@example.com,Ponta Pora
+3,Pedro Henrique Oliveira,(67) 90003-0411,customer3@example.com,Dourados
+4,Mariana Costa Santos,(67) 90004-0548,customer4@example.com,Corumba
+5,Rafael Augusto Pereira,(67) 90005-0685,customer5@example.com,Campo Grande
+6,Juliana Almeida Rodrigues,(67) 90006-0822,customer6@example.com,Tres Lagoas
+7,Thiago Barbosa Lima,(67) 90007-0959,customer7@example.com,Ponta Pora
+8,Fernanda Ribeiro Souza,(67) 90008-1096,customer8@example.com,Dourados
+9,Gabriel Santos Araujo,(67) 90009-1233,customer9@example.com,Corumba
+10,Camila Duarte Nascimento,(67) 90010-1370,customer10@example.com,Campo Grande
+11,Bruno Carvalho Martins,(67) 90011-1507,customer11@example.com,Tres Lagoas
+12,Isabela Moreira Cunha,(67) 90012-1644,customer12@example.com,Ponta Pora
+13,Diego Fernandes Castro,(67) 90013-1781,customer13@example.com,Dourados
+14,Leticia Goncalves Rocha,(67) 90014-1918,customer14@example.com,Corumba
+15,Matheus Ramos Correia,(67) 90015-2055,customer15@example.com,Campo Grande
+16,Patricia Vieira Cardoso,(67) 90016-2192,customer16@example.com,Tres Lagoas
+17,Gustavo Teixeira Nunes,(67) 90017-2329,customer17@example.com,Ponta Pora
+18,Aline Borges Monteiro,(67) 90018-2466,customer18@example.com,Dourados
+19,Rodrigo Silva,(67) 90019-2603,customer19@example.com,Corumba
+20,Amanda Lima,(67) 90020-2740,customer20@example.com,Campo Grande
+21,Felipe Gomes,(67) 90021-2877,customer21@example.com,Tres Lagoas
+22,Beatriz Rocha,(67) 90022-3014,customer22@example.com,Ponta Pora
+23,Marcelo Dias,(67) 90023-3151,customer23@example.com,Dourados
+24,Camila Alves,(67) 90024-3288,customer24@example.com,Corumba
+25,Thiago Costa,(67) 90025-3425,customer25@example.com,Campo Grande
+26,Larissa Mendes,(67) 90026-3562,customer26@example.com,Tres Lagoas
+27,Bruno Carvalho,(67) 90027-3699,customer27@example.com,Ponta Pora
+28,Juliana Castro,(67) 90028-3836,customer28@example.com,Dourados
+29,Leonardo Santos,(67) 90029-3973,customer29@example.com,Corumba
+30,Natalia Martins,(67) 90030-4110,customer30@example.com,Campo Grande
+31,Joao Silva,(67) 90031-4247,customer31@example.com,Tres Lagoas
+32,Maria Oliveira,(67) 90032-4384,customer32@example.com,Ponta Pora
+33,Carlos Souza,(67) 90033-4521,customer33@example.com,Dourados
+34,Ana Costa,(67) 90034-4658,customer34@example.com,Corumba
+35,Pedro Santos,(67) 90035-4795,customer35@example.com,Campo Grande
+36,Paula Lima,(67) 90036-4932,customer36@example.com,Tres Lagoas
+37,Lucas Pereira,(67) 90037-5069,customer37@example.com,Ponta Pora
+38,Julia Carvalho,(67) 90038-5206,customer38@example.com,Dourados
+39,Marcos Rodrigues,(67) 90039-5343,customer39@example.com,Corumba
+40,Fernanda Almeida,(67) 90040-5480,customer40@example.com,Campo Grande
+41,Rafael Alves,(67) 90041-5617,customer41@example.com,Tres Lagoas
+42,Camila Ribeiro,(67) 90042-5754,customer42@example.com,Ponta Pora
+43,Bruno Martins,(67) 90043-5891,customer43@example.com,Dourados
+44,Leticia Gomes,(67) 90044-6028,customer44@example.com,Corumba
+45,Thiago Dias,(67) 90045-6165,customer45@example.com,Campo Grande
+46,Amanda Rocha,(67) 90046-6302,customer46@example.com,Tres Lagoas
+47,Diego Castro,(67) 90047-6439,customer47@example.com,Ponta Pora
+48,Beatriz Mendes,(67) 90048-6576,customer48@example.com,Dourados
+49,Felipe Nunes,(67) 90049-6713,customer49@example.com,Corumba
+50,Mariana Cardoso,(67) 90050-6850,customer50@example.com,Campo Grande
